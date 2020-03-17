@@ -2,15 +2,31 @@
 
 <head>
 
-  <h1> This is my Resume </h1>
+  <title>Jennifer Eunice's Resume </title>
 
 </head>
 
 <body>
+  <h1> This is my Resume </h1>
 
 
 
 </body>
+
+<script>
+  var theNumber = 0
+  var myButton = document.querySelector('.my-button')
+  var myNumber = document.querySelector('.my-number')
+  myNumber.innerHTML = theNumber
+  myButton.addEventListener('click',function() {
+    theNumber += 1
+    myNumber.innerHTML = theNumber
+
+  })
+
+
+</script>
+
 
 
 </html>
