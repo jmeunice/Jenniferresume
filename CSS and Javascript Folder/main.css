@@ -1,8 +1,19 @@
 
     body {
-      background: red;
+      background: lightblue;
+}
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap"
+rel="stylesheet">
+
+
+.black-header{
+  color: black;
+
+}
+h1 {
+  font-family: 'Indie Flower';
 }
 
-.white-header{
-  color: white;
+h2 {
+  font-family: 'Indie Flower';
 }
