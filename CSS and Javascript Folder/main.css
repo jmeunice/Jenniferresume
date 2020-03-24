@@ -8,7 +8,15 @@ rel="stylesheet">
 
 
 .black-header{
-  color: white;
+  color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
 }
 h1 {
