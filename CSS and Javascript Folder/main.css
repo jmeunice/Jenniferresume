@@ -9,7 +9,10 @@ rel="stylesheet">
 
 .black-header{
   color: black;
-  border: 2px blue; 
+  background: yellow; 
+  border-style: solid;
+  border-color: blue;
+
 }
 
 .center {
@@ -17,6 +20,7 @@ rel="stylesheet">
     margin-left: auto;
     margin-right: auto;
     width: 20%;
+
   }
 
 }
